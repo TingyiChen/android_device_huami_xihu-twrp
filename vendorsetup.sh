@@ -1,2 +1,2 @@
-add_lunch_combo omni_catfish-eng
-add_lunch_combo omni_catfish-userdebug
+add_lunch_combo omni_xihu-eng
+add_lunch_combo omni_xihu-userdebug
